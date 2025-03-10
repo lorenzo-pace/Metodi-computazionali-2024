@@ -1,5 +1,3 @@
 Lorenzo Pace 
 
-Matricola 356176
-
-Memento audere semper
+Matricola 35617
